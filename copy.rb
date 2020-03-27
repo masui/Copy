@@ -2,9 +2,9 @@
 #
 # テキストをScrapbox.io/toshiyukimasui/copy にコピーする
 #
-# % copy
-# % copy text
-# % echo text | copy
+# % copy                # コピーページを開く
+# % copy text           # textをコピーページに書き込む
+# % echo text | copy    # textをコピーページに書き込む
 #
 
 require 'uri'
